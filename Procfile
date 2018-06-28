@@ -1,0 +1,1 @@
+web: node .next/bundles/index.js
